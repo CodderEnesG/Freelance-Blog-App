@@ -1,0 +1,9 @@
+*{
+  font-family: "Poppins" , sans-serif;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+.App {
+  overflow-x: hidden;
+}
